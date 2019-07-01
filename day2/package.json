@@ -1,0 +1,20 @@
+{
+  "name": "sapir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "complaints.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "font-awesome": "^4.7.0",
+    "handlebars": "^4.1.2",
+    "jquery": "^3.4.1",
+    "moment": "^2.24.0",
+    "request": "^2.88.0"
+  }
+}
